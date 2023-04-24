@@ -1,2 +1,2 @@
 # command_line_for_the_win
-optional p 
+optional project to test command line knowledge (linux)
